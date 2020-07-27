@@ -1,1 +1,1 @@
-# my.gtkportal.app-router
+# router.my.gtkportal.app
