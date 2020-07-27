@@ -1,5 +1,0 @@
-<IfModule mod_rewrite.c>
-RewriteEngine on
-RewriteRule ^(.*)$ http://router.my.gtkportal.app/router/$1 [L,NE,R=301]
-
-</IfModule>
