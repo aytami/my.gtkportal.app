@@ -1,0 +1,5 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteRule ^(.*)$ http://my.gtkportal.app/router/sleep/$1 [L,NE,R=301]
+
+</IfModule>
